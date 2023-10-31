@@ -1,0 +1,1 @@
+echo "Hello, world! This is GDSC SUT. The time is $(date)."
