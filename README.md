@@ -9,4 +9,12 @@
 
 ### App Engine
 
-1.
+1. Deploy a simple Python application with Server-Side rending of a template
+2. Enhance previous application with data persistence using Firestore.
+
+### Tackling Requirements
+
+1. Install the [Google Cloud CLI](https://cloud.google.com/sdk/gcloud)
+2. Download and install [Git](https://git-scm.com/downloads)
+3. Install [Python 3.9](https://www.python.org/downloads/release/python-390/)
+4. Create an account in [Google Cloud](https://cloud.google.com/?hl=en)
